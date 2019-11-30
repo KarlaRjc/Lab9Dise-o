@@ -1,0 +1,11 @@
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\bin\Debug\netcoreapp2.1\Lab9CamposK.deps.json
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\bin\Debug\netcoreapp2.1\Lab9CamposK.runtimeconfig.json
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\bin\Debug\netcoreapp2.1\Lab9CamposK.runtimeconfig.dev.json
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\bin\Debug\netcoreapp2.1\Lab9CamposK.dll
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\bin\Debug\netcoreapp2.1\Lab9CamposK.pdb
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\obj\Debug\netcoreapp2.1\Lab9CamposK.csprojAssemblyReference.cache
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\obj\Debug\netcoreapp2.1\Lab9CamposK.csproj.CoreCompileInputs.cache
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\obj\Debug\netcoreapp2.1\Lab9CamposK.AssemblyInfoInputs.cache
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\obj\Debug\netcoreapp2.1\Lab9CamposK.AssemblyInfo.cs
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\obj\Debug\netcoreapp2.1\Lab9CamposK.dll
+C:\Users\Campo\source\Repos\Lab9CamposK\Lab9CamposK\obj\Debug\netcoreapp2.1\Lab9CamposK.pdb
